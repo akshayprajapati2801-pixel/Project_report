@@ -1,0 +1,57 @@
+=================================================================
+WEATHER INTELLIGENCE & CLIMATE ANALYTICS SYSTEM
+AUTOMATED CLIMATE INSIGHTS REPORT
+=================================================================
+
+1. DATASET OVERVIEW
+---------------------------------------------
+Analysis period: 01 January 2025 to 31 December 2025
+Total observations: 365
+Total weather variables: 6 original measurements
+
+2. OVERALL CLIMATE PERFORMANCE
+---------------------------------------------
+Average temperature: 24.03 °C
+Maximum temperature: 45.10 °C
+Minimum temperature: 8.29 °C
+Average humidity: 65.09%
+Total rainfall: 1736.35 mm
+Average wind speed: 13.25 km/h
+Average air pressure: 1013.03 hPa
+Rainy days: 328
+
+3. MONTHLY CLIMATE INSIGHTS
+---------------------------------------------
+Hottest month: July (34.14 °C)
+Coolest month: January (13.57 °C)
+Wettest month: May (189.94 mm)
+
+4. HUMIDITY AND RAINFALL PATTERNS
+---------------------------------------------
+High humidity days: 150
+Heavy rainfall days: 40
+Dry days: 37
+
+5. TEMPERATURE ANOMALY ANALYSIS
+---------------------------------------------
+Unusual temperature days: 4
+Anomaly percentage: 1.10%
+Detection method: Absolute Z-score greater than 2
+
+6. KEY OBSERVATIONS
+---------------------------------------------
+The highest monthly average temperature occurred in July.
+The lowest monthly average temperature occurred in January.
+The greatest monthly rainfall occurred in May.
+4 temperature observations were flagged for further review.
+
+7. PROJECT METHODOLOGY
+---------------------------------------------
+Libraries used: Pandas, NumPy, Matplotlib and Python built-ins.
+Data source: Synthetic weather data generated with NumPy.
+Analysis: Statistical summaries, monthly aggregation,
+classification and Z-score-based anomaly screening.
+
+=================================================================
+END OF AUTOMATED CLIMATE REPORT
+=================================================================
